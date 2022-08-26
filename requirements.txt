@@ -23,7 +23,7 @@ charset-normalizer
 click 
 cloudpickle 
 colorama 
-conda==4.13.0
+conda
 conda-package-handling 
 cryptography 
 cycler 
